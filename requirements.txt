@@ -1,0 +1,11 @@
+pdfplumber
+neo4j
+langchain
+langchain-core
+langchain-huggingface   
+transformers            
+torch                  
+accelerate              
+sentencepiece         
+python-dotenv
+sentence-transformers
